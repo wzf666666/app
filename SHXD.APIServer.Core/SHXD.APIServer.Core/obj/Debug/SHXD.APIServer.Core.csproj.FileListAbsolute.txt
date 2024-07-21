@@ -1,0 +1,13 @@
+E:\project\SHXD.APIServer.Core\SHXD.APIServer.Core\obj\Debug\SHXD.APIServer.Core.csprojResolveAssemblyReference.cache
+E:\project\SHXD.APIServer.Core\SHXD.APIServer.Core\bin\Debug\SHXD.APIServer.Core.dll
+E:\project\SHXD.APIServer.Core\SHXD.APIServer.Core\bin\Debug\SHXD.APIServer.Core.pdb
+E:\project\SHXD.APIServer.Core\SHXD.APIServer.Core\bin\Debug\Dapper.dll
+E:\project\SHXD.APIServer.Core\SHXD.APIServer.Core\bin\Debug\log4net.dll
+E:\project\SHXD.APIServer.Core\SHXD.APIServer.Core\bin\Debug\Newtonsoft.Json.dll
+E:\project\SHXD.APIServer.Core\SHXD.APIServer.Core\bin\Debug\NPOI.dll
+E:\project\SHXD.APIServer.Core\SHXD.APIServer.Core\bin\Debug\NPOI.OOXML.dll
+E:\project\SHXD.APIServer.Core\SHXD.APIServer.Core\bin\Debug\NPOI.OpenXml4Net.dll
+E:\project\SHXD.APIServer.Core\SHXD.APIServer.Core\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\project\SHXD.APIServer.Core\SHXD.APIServer.Core\bin\Debug\wyx.Framework40.dll
+E:\project\SHXD.APIServer.Core\SHXD.APIServer.Core\obj\Debug\SHXD.APIServer.Core.dll
+E:\project\SHXD.APIServer.Core\SHXD.APIServer.Core\obj\Debug\SHXD.APIServer.Core.pdb

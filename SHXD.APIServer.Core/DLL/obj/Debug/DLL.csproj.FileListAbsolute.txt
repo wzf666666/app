@@ -1,0 +1,4 @@
+E:\project\SHXD.APIServer.Core\DLL\bin\Debug\DLL.dll
+E:\project\SHXD.APIServer.Core\DLL\bin\Debug\DLL.pdb
+E:\project\SHXD.APIServer.Core\DLL\obj\Debug\DLL.dll
+E:\project\SHXD.APIServer.Core\DLL\obj\Debug\DLL.pdb

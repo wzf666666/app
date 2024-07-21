@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|f:\\baidunetdiskdownload\\shxd.apiserver.core\\shxd.apiserver.core\\webapplication2\\controllers\\userinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\userinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|f:\\baidunetdiskdownload\\shxd.apiserver.core\\shxd.apiserver.core\\webapplication2\\controllers\\yhordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\yhordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|f:\\baidunetdiskdownload\\shxd.apiserver.core\\shxd.apiserver.core\\webapplication2\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|f:\\baidunetdiskdownload\\shxd.apiserver.core\\shxd.apiserver.core\\webapplication2\\controllers\\wxlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\wxlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|f:\\baidunetdiskdownload\\shxd.apiserver.core\\shxd.apiserver.core\\webapplication2\\models\\yhorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\yhorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\webapplication2\\controllers\\addressinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\addressinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|f:\\baidunetdiskdownload\\shxd.apiserver.core\\shxd.apiserver.core\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|f:\\baidunetdiskdownload\\shxd.apiserver.core\\shxd.apiserver.core\\webapplication2\\models\\accesstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\accesstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|f:\\baidunetdiskdownload\\shxd.apiserver.core\\shxd.apiserver.core\\webapplication2\\models\\addressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B0EECD-DC33-4E9E-9EC0-7CDB5E24BD0A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\addressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F82C13-5326-43E0-AA89-0D5CF15A641A}|SHXD.APIServer.Core\\SHXD.APIServer.Core.csproj|F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\shxd.apiserver.core\\validateresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F82C13-5326-43E0-AA89-0D5CF15A641A}|SHXD.APIServer.Core\\SHXD.APIServer.Core.csproj|solutionrelative:shxd.apiserver.core\\validateresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInfoController.cs",
+              "DocumentMoniker": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Controllers\\UserInfoController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\UserInfoController.cs",
+              "ToolTip": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Controllers\\UserInfoController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\UserInfoController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:47:10.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T03:43:34.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YhOrderController.cs",
+              "DocumentMoniker": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Controllers\\YhOrderController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\YhOrderController.cs",
+              "ToolTip": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Controllers\\YhOrderController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\YhOrderController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwDEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:42:26.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\BaseController.cs",
+              "ToolTip": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAClAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:14:10.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WxLoginController.cs",
+              "DocumentMoniker": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Controllers\\WxLoginController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\WxLoginController.cs",
+              "ToolTip": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Controllers\\WxLoginController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\WxLoginController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAApwA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:39:54.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:32:10.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressInfoController.cs",
+              "DocumentMoniker": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Controllers\\AddressInfoController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AddressInfoController.cs",
+              "ToolTip": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Controllers\\AddressInfoController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\AddressInfoController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:29:11.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YhOrder.cs",
+              "DocumentMoniker": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Models\\YhOrder.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\YhOrder.cs",
+              "ToolTip": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Models\\YhOrder.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\YhOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:43:08.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccessType.cs",
+              "DocumentMoniker": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Models\\AccessType.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\AccessType.cs",
+              "ToolTip": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Models\\AccessType.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\AccessType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:07:45.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddressInfo.cs",
+              "DocumentMoniker": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Models\\AddressInfo.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\AddressInfo.cs",
+              "ToolTip": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\WebApplication2\\Models\\AddressInfo.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\AddressInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:07:51.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidateResult.cs",
+              "DocumentMoniker": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\ValidateResult.cs",
+              "RelativeDocumentMoniker": "SHXD.APIServer.Core\\ValidateResult.cs",
+              "ToolTip": "F:\\BaiduNetdiskDownload\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\SHXD.APIServer.Core\\ValidateResult.cs",
+              "RelativeToolTip": "SHXD.APIServer.Core\\ValidateResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:15:05.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

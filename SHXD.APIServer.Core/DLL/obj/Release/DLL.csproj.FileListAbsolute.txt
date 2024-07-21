@@ -1,0 +1,10 @@
+E:\project\SHXD.APIServer.Core\DLL\bin\Release\DLL.dll
+E:\project\SHXD.APIServer.Core\DLL\bin\Release\DLL.pdb
+E:\project\SHXD.APIServer.Core\DLL\obj\Release\DLL.dll
+E:\project\SHXD.APIServer.Core\DLL\obj\Release\DLL.pdb
+F:\BaiduNetdiskDownload\SHXD.APIServer.Core\SHXD.APIServer.Core\DLL\bin\Release\DLL.dll
+F:\BaiduNetdiskDownload\SHXD.APIServer.Core\SHXD.APIServer.Core\DLL\bin\Release\DLL.pdb
+F:\BaiduNetdiskDownload\SHXD.APIServer.Core\SHXD.APIServer.Core\DLL\obj\Release\DLL.csproj.AssemblyReference.cache
+F:\BaiduNetdiskDownload\SHXD.APIServer.Core\SHXD.APIServer.Core\DLL\obj\Release\DLL.csproj.CoreCompileInputs.cache
+F:\BaiduNetdiskDownload\SHXD.APIServer.Core\SHXD.APIServer.Core\DLL\obj\Release\DLL.dll
+F:\BaiduNetdiskDownload\SHXD.APIServer.Core\SHXD.APIServer.Core\DLL\obj\Release\DLL.pdb
